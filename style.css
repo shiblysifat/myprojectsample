@@ -1,0 +1,21 @@
+.slimg>img:hover{
+	cursor: pointer;
+}
+
+.element>div{
+	overflow: hidden;
+}
+
+.element>div>img{
+	margin-top: -15%;
+	width: 85%;
+}
+
+.fabric, .collar, .cuff, .pla, #blue, #red{
+	cursor: pointer;
+}
+#collarID, #cuffID, #plaID{
+	display: none;
+	cursor: not-allowed;
+}
+
